@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"hello/morestrings"
-	"hello/pubsub"
+	"github.com/sukibean163/hello/morestrings"
+	"github.com/sukibean163/hello/pubsub"
 )
 
 const topic = "topic"
